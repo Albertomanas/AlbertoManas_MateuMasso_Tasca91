@@ -1,0 +1,10 @@
+/* css per a estils propis del copyright y dels links */
+
+#copyright {
+    margin-left: 80%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,26 @@
+
+{
+    "items":
+    [
+        {
+            "name": "Aged Brie",
+            "price": 45,
+            "image": "../img/Aged_Bire.jpg"
+        },
+        {
+            "name": "Excalibur",
+            "price": 10,
+            "image": "../img/excalibur.jpg"
+        },
+        {
+            "name": "Pato",
+            "price": 20,
+            "image": "../img/patogoma.jpg"
+        },
+        {
+            "name": "Pechera minecraft",
+            "price": 99,
+            "image": "../img/Pechera.jpg"
+        }
+    ]
+}
