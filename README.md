@@ -1,5 +1,4 @@
-# ManasAlberto_MassoMateu_Tasca91
-
-## Asignatura: Llenguatge de Marques
-## Tasca: 9.1
-## Autors: Alberto Mañas y Mateu Massó
+# Carrerar un JSON
+## Autors: Mateu Massó y Alberto J. Mañas
+## Asignatura: Llenguatje de marques
+## Treball: Treball 9.1 Carrera un JSON.
